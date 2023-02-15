@@ -12,7 +12,7 @@ const HomeView = () => {
         flexDirection: 'column',
       }}
     >
-      <Section title="Welcome to Ukraine">
+      <Section title="Welcome to Ukraine!!!">
         <AddToHomeScreenIcon fontSize="large" />
       </Section>
     </Box>
